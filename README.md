@@ -1,2 +1,6 @@
 # SystemsFinalProject
-Github repository for duplicating the temperature controller
+To DO:
+BOM
+Schematic
+Block Diagram
+Code
